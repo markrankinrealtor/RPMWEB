@@ -1,0 +1,198 @@
+{
+  "property-management": {
+    "title": "Property management with a long-term perspective.",
+    "category": "Services"
+  },
+  "tenant-placement": {
+    "title": "A thoughtful start to the next tenancy.",
+    "category": "Services"
+  },
+  "marketing": {
+    "title": "Present your rental with clarity.",
+    "category": "Services"
+  },
+  "tenant-screening": {
+    "title": "Preparation at the point of placement.",
+    "category": "Services"
+  },
+  "rent-collection": {
+    "title": "Keep collection and communication connected.",
+    "category": "Services"
+  },
+  "maintenance": {
+    "title": "Property care, thoughtfully coordinated.",
+    "category": "Services"
+  },
+  "accounting": {
+    "title": "Understand the property\u2019s performance.",
+    "category": "Services"
+  },
+  "communication": {
+    "title": "Clarity is part of the service.",
+    "category": "Services"
+  },
+  "property-standards": {
+    "title": "Prepare the home before the next step.",
+    "category": "Services"
+  },
+  "investor-services": {
+    "title": "Connect the rental to your larger goals.",
+    "category": "Services"
+  },
+  "our-process": {
+    "title": "From first conversation to ongoing care.",
+    "category": "Owners"
+  },
+  "pricing": {
+    "title": "A plan for your property. A clear starting point.",
+    "category": "Owners"
+  },
+  "about": {
+    "title": "Real estate is the vehicle. Trust is the foundation.",
+    "category": "About"
+  },
+  "service-area": {
+    "title": "Let\u2019s confirm support for your property.",
+    "category": "Owners"
+  },
+  "contact": {
+    "title": "Let\u2019s talk about your next step.",
+    "category": "Contact"
+  },
+  "rental-analysis": {
+    "title": "Start with a property-specific conversation.",
+    "category": "Owners"
+  },
+  "owner-faq": {
+    "title": "Owner questions, thoughtfully answered.",
+    "category": "Owners"
+  },
+  "leasing-faq": {
+    "title": "Before you apply, get the details.",
+    "category": "Rentals"
+  },
+  "resident-faq": {
+    "title": "Useful answers for life at home.",
+    "category": "Residents"
+  },
+  "residents": {
+    "title": "A useful starting point for your home.",
+    "category": "Residents"
+  },
+  "owner-portal": {
+    "title": "Owner access",
+    "category": "Owners"
+  },
+  "resident-portal": {
+    "title": "Resident access",
+    "category": "Residents"
+  },
+  "vendor-portal": {
+    "title": "Vendor access",
+    "category": "Vendors"
+  },
+  "pay-rent": {
+    "title": "Use your authorized payment channel.",
+    "category": "Residents"
+  },
+  "maintenance-request": {
+    "title": "Help us understand the property concern.",
+    "category": "Residents"
+  },
+  "owner-handbook": {
+    "title": "Prepare for the management relationship.",
+    "category": "Owners"
+  },
+  "resident-handbook": {
+    "title": "A practical guide to life in your home.",
+    "category": "Residents"
+  },
+  "move-checklist": {
+    "title": "Make the transition easier to organize.",
+    "category": "Residents"
+  },
+  "rental-assistance": {
+    "title": "Start with the right local support.",
+    "category": "Residents"
+  },
+  "rentals": {
+    "title": "Find your next place to call home.",
+    "category": "Rentals"
+  },
+  "applicant-criteria": {
+    "title": "Understand the criteria before you apply.",
+    "category": "Rentals"
+  },
+  "schedule-a-showing": {
+    "title": "See the home through the authorized process.",
+    "category": "Rentals"
+  },
+  "rental-readiness": {
+    "title": "Before your home becomes a rental",
+    "category": "Learning center"
+  },
+  "compare-management": {
+    "title": "How to compare management proposals",
+    "category": "Learning center"
+  },
+  "understanding-cash-flow": {
+    "title": "Understand rental cash flow",
+    "category": "Learning center"
+  },
+  "maintenance-planning": {
+    "title": "A better maintenance conversation",
+    "category": "Learning center"
+  },
+  "rent-or-sell": {
+    "title": "Questions before you rent or sell",
+    "category": "Learning center"
+  },
+  "first-rental": {
+    "title": "Your first rental ownership conversation",
+    "category": "Learning center"
+  },
+  "resources": {
+    "title": "A little preparation changes the conversation.",
+    "category": "Resources"
+  },
+  "guides": {
+    "title": "Practical guides for the next conversation.",
+    "category": "Resources"
+  },
+  "referrals": {
+    "title": "Keep the client\u2019s bigger picture in view.",
+    "category": "Resources"
+  },
+  "vendors": {
+    "title": "Start a conversation about property care.",
+    "category": "Resources"
+  },
+  "privacy": {
+    "title": "Privacy and website inquiries.",
+    "category": "Website"
+  },
+  "accessibility": {
+    "title": "A website designed to be easier to use.",
+    "category": "Website"
+  },
+  "roi-calculator": {
+    "title": "See the rental\u2019s operating picture.",
+    "category": "Calculators"
+  },
+  "vacancy-loss-calculator": {
+    "title": "Understand the cost of an empty rental.",
+    "category": "Calculators"
+  },
+  "affordability-calculator": {
+    "title": "Explore your rent budget.",
+    "category": "Calculators"
+  },
+  "rent-vs-sell-calculator": {
+    "title": "Compare two possible next chapters.",
+    "category": "Calculators"
+  },
+  "sitemap": {
+    "title": "Explore the full Rankin website.",
+    "category": "Website"
+  }
+}

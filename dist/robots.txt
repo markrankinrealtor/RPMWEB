@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rankin-property-management.mark-rankinrealtor.chatgpt.site/sitemap.xml
